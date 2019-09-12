@@ -1,9 +1,13 @@
 
-.container {
-  background-color: lightblue;
+body{
+  background-color: #cef0ee;
 }
 
 h1 {
-  color: white;
+  color: #347875;
   text-align: center;
+  font-style: "Times New Roman", Times, serif;
+  }
+div#jon {
+  text-align: justify;
   }

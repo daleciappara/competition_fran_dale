@@ -5,10 +5,25 @@ body{
 
 h1 {
   color: #347875;
+  font-weight: bold;
   text-align: center;
   font-style: "Times New Roman", Times, serif;
   }
 div#jon {
   text-align: justify;
+  background-color: #e1dfff;
 
   }
+
+h2 {
+  color: #347875;
+  text-align: center;
+  font-weight: bold;
+}
+
+h3 {color: #347875;
+}
+
+h4 {color: #347875;
+text-align: center;
+}
